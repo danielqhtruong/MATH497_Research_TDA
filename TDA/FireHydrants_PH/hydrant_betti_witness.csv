@@ -1,0 +1,8 @@
+complex,radius_m,beta0,beta1
+Witness (200 landmarks),100,1,32
+Witness (200 landmarks),150,1,32
+Witness (200 landmarks),200,1,32
+Witness (200 landmarks),300,1,32
+Witness (200 landmarks),500,1,32
+Witness (200 landmarks),1000,1,32
+Witness (200 landmarks),2000,1,32

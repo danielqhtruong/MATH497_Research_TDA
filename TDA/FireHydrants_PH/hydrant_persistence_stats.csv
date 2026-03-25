@@ -1,0 +1,4 @@
+complex,dimension,n_features,pers_mean_m,pers_max_m,pers_std_m,pers_entropy
+Rips (500m grid),H0,4523,425.17,1791.16,80.01,8.3986
+Rips (500m grid),H1,3194,117.02,2827.58,121.65,7.7667
+Witness (200 landmarks),H1,33,1397657.64,10173423.22,2102133.13,2.7772
