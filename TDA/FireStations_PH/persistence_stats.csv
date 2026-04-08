@@ -1,5 +1,0 @@
-complex,dimension,n_features,pers_mean_km,pers_max_km,pers_std_km,pers_entropy
-Vietoris-Rips,H0,406,2.764,13.436,1.612,5.8761
-Vietoris-Rips,H1,146,0.781,4.422,0.699,4.6452
-Witness,H0,3,63608.669,105347.513,34074.34,0.9425
-Witness,H1,21,21024.967,99424.195,24530.513,2.5744
